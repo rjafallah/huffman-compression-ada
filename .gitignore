@@ -1,0 +1,15 @@
+# Fichiers de compilation GNAT
+*.o
+*.ali
+*.exe
+
+# Exécutables (Linux / macOS)
+src/compresser
+src/decompresser
+src/binary_to_text
+src/text_to_binary
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
